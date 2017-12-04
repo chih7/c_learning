@@ -1,0 +1,1 @@
+cmd_/home/chih/ClionProjects/bbr/tcp_tsunami.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/chih/ClionProjects/bbr/tcp_tsunami.ko /home/chih/ClionProjects/bbr/tcp_tsunami.o /home/chih/ClionProjects/bbr/tcp_tsunami.mod.o ;  true

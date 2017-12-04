@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/chih/CLionProjects/c_learning/btree/btree.cpp
+btree.h
+/home/chih/CLionProjects/c_learning/btree/btree.h
+iostream
+-
+algorithm
+-
+
+/home/chih/CLionProjects/c_learning/btree/btree.h
+btree_node.h
+/home/chih/CLionProjects/c_learning/btree/btree_node.h
+vector
+-
+
+/home/chih/CLionProjects/c_learning/btree/btree_node.cpp
+btree_node.h
+/home/chih/CLionProjects/c_learning/btree/btree_node.h
+
+/home/chih/CLionProjects/c_learning/btree/btree_node.h
+student.h
+/home/chih/CLionProjects/c_learning/btree/student.h
+
+/home/chih/CLionProjects/c_learning/btree/main.cpp
+stdio.h
+-
+fstream
+-
+iostream
+-
+string
+-
+btree.h
+/home/chih/CLionProjects/c_learning/btree/btree.h
+
+/home/chih/CLionProjects/c_learning/btree/student.h
+string
+-
+

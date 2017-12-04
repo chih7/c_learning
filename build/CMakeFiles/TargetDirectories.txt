@@ -1,0 +1,7 @@
+/home/chih/CLionProjects/c_learning/build/CMakeFiles/install/strip.dir
+/home/chih/CLionProjects/c_learning/build/CMakeFiles/edit_cache.dir
+/home/chih/CLionProjects/c_learning/build/CMakeFiles/c_learning.dir
+/home/chih/CLionProjects/c_learning/build/CMakeFiles/rebuild_cache.dir
+/home/chih/CLionProjects/c_learning/build/CMakeFiles/list_install_components.dir
+/home/chih/CLionProjects/c_learning/build/CMakeFiles/install/local.dir
+/home/chih/CLionProjects/c_learning/build/CMakeFiles/install.dir

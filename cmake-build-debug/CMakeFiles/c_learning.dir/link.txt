@@ -1,0 +1,1 @@
+/usr/bin/c++   -O0 -Wall -g -ggdb  -rdynamic CMakeFiles/c_learning.dir/btree/btree.cpp.o CMakeFiles/c_learning.dir/btree/btree_node.cpp.o CMakeFiles/c_learning.dir/btree/main.cpp.o  -o c_learning 

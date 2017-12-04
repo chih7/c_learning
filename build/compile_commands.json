@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/chih/CLionProjects/c_learning/build",
+  "command": "/usr/bin/cc   -g   -o CMakeFiles/c_learning.dir/sleep.c.o   -c /home/chih/CLionProjects/c_learning/sleep.c",
+  "file": "/home/chih/CLionProjects/c_learning/sleep.c"
+}
+]
